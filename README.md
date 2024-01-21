@@ -5,4 +5,4 @@
 
 Descobrir o número aleatório gerado pelo _Math.random_ e ir realizando chutes até acertar. 
 
-Link: https://anasouza.top/src/src/index.html
+Link: <a href="https://anasouza.top/src/src/index.html" target="_blank">Descobrir número</a>
