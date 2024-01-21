@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+html, body{
+    height: 100%;
+    background-color: skyblue;
+}
+
+header{
+    width: 100%;
+    text-align: center;
+    background-color: cadetblue;
+}
+
+#box{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-content: normal;
+    background-image: url('../img/cyber.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#informarNumero{
+    margin: 0 50px;
+}
+
+h2{
+    color: green;
+}
+
+#numero{
+    width: 300px;
+    height: 50px;
+    font-size: 30px;
+    padding-left: 1%;
+    margin: 10px 0 10px 0;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    padding-left: 2%;
+}
+
+#verificar{
+    width: 300px;
+    height: 50px;
+    text-transform: uppercase;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+}
+
+#regrasClick{
+    cursor: pointer;
+    color: greenyellow;
+}
+
+#regrasClick:hover{
+    color: red;
+}
+
+
+#aviso{
+    width: 230px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: red;
+    font-weight: 800;
+    position: absolute;
+}
+
+p{
+    font-size: 30px;
+}
+
+i{
+    color: red;
+}
+
+#regras{
+    margin: 0 auto;
+    max-width: 530px;
+
+}
