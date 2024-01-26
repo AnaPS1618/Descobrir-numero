@@ -1,4 +1,4 @@
-# Oracle-Alura
+# Oracle+Alura
 
 
 ## Primeiro projeto do curso realizado pela Oracle em parceira com Alura:
